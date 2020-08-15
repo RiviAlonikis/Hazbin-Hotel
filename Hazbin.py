@@ -6,7 +6,7 @@ from colorama import Fore, Back, Style
 import argparse
 import base64
 from getpass import getpass
-
+from input import alastor, andalastor, andalastoryes, menu
 from sys import argv
 from platform import system
 
