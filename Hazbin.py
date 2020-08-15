@@ -24,7 +24,7 @@ print(Fore.RED + """
    {3}--Твой номер в отеле
    {99}-Exit
  """)
-    choice = raw_input("1,2,3,99")
+    choice = raw_input("hacktronian~#")
     os.system('clear')
     if choice == "1":
         rules()
