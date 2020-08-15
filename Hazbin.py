@@ -1,4 +1,5 @@
 import random
+import sys
 from random import randint
 import os
 from colorama import Fore, Back, Style
