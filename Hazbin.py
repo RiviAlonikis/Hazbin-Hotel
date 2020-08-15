@@ -50,6 +50,8 @@ elif choice == "":
    menu()
 else:
    menu()
+
+
    def alastor():
                      print("""Язык и возрастное ограничение.
  ↪Язык сообщества - русский. 
