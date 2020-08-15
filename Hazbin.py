@@ -9,9 +9,6 @@ from getpass import getpass
 from input import alastor, andalastor, andalastoryes, menu
 from sys import argv
 from platform import system
-
-
-
 from time import sleep
 
 
