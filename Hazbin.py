@@ -12,7 +12,7 @@ from platform import system
 from time import sleep
 
 
-
+def menu():
 print("""powered by
 ██████╗░██╗██╗░░░██╗
 ██╔══██╗██║██║░░░██║
