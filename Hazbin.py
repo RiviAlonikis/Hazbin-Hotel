@@ -24,15 +24,14 @@ print(Fore.RED + """
    {3}--Твой номер в отеле
    {99}-Exit
  """)
-    choice = raw_input("hazbin~# ")
+    choice = raw_input("1,2,3,99")
     os.system('clear')
     if choice == "1":
         rules()
+
     elif choice == "2":
-        platform rules()
-    elif choice == "3":
         info()
-    elif choice == "4":
+    elif choice == "3":
         number()
     elif choice == "99":
         clearScr(), sys.exit()
