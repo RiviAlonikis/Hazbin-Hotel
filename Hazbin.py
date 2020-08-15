@@ -26,7 +26,7 @@ choice = raw_input("Alastor~#")
 os.system('clear')
 if choice == "1":
    rules()
-   elif choice == "2":
+elif choice == "2":
       info()
       elif choice == "3":
          number()
