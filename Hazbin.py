@@ -3,6 +3,23 @@ import sys
 from random import randint
 import os
 from colorama import Fore, Back, Style
+import argparse
+
+import os
+
+import time
+
+import httplib
+
+import subprocess
+
+import re
+
+import urllib2
+
+import socket
+
+import urllib
 print("""powered by
 ██████╗░██╗██╗░░░██╗
 ██╔══██╗██║██║░░░██║
