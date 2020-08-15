@@ -28,13 +28,13 @@ if choice == "1":
    rules()
 elif choice == "2":
       info()
-      elif choice == "3":
+elif choice == "3":
          number()
-         elif choice == "99":
+elif choice == "99":
             clearScr(), sys.exit()
-            elif choice == "":
+elif choice == "":
                menu()
-               else:
+else:
                   menu()
                   def rules():
                      print("""Язык и возрастное ограничение.
