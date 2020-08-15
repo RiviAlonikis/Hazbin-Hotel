@@ -1,2 +1,2 @@
 import colorama
-print(t.green('lol'))
+print(Fore.GREEN + 'Hello, World')
