@@ -4,7 +4,15 @@ from random import randint
 import os
 from colorama import Fore, Back, Style
 import argparse
-
+import base64
+from getpass import getpass
+from commands import *
+from sys import argv
+from platform import system
+from urlparse import urlparse
+from xml.dom import minidom
+from optparse import OptionParser
+from time import sleep
 
 
 
