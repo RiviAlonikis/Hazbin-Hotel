@@ -19,16 +19,14 @@ print("""powered by
 """)
 print(Fore.RED + """
    {1}--Правила
-
    {2}--Информация о сообществе
    {3}--Твой номер в отеле
    {99}-Exit
  """)
-    choice = raw_input("Hotel-Hazbin~# ")
+    choice = raw_input("Alastor~#")
     os.system('clear')
     if choice == "1":
         rules()
-
     elif choice == "2":
         info()
     elif choice == "3":
