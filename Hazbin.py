@@ -31,7 +31,7 @@ elif choice == "2":
 elif choice == "3":
          number()
 elif choice == "99":
-            clearScr(), sys.exit()
+            sys.exit()
 elif choice == "":
                menu()
 else:
