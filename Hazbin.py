@@ -44,9 +44,7 @@ os.system('clear')
 if choice == "99":
    sys.exit()
 elif choice == "":
-     666()
-else:
-     666()
+
 
 
 
@@ -123,4 +121,10 @@ elif choice == "2":
 
 elif choice == "3":
     print("""('Ваш номер в отеле:', randint(1,666))""")
+  
+       666()
+else:
+     666()
+  
+  
             
