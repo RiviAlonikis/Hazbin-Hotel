@@ -1,7 +1,7 @@
 import os
 from colorama import Fore, Back, Style
 def logo():
-    print """
+    print("""
                            - Powered by
 
 ██████╗░██╗██╗░░░██╗
@@ -10,7 +10,7 @@ def logo():
 ██╔══██╗██║░╚████╔╝░
 ██║░░██║██║░░╚██╔╝░░
 ╚═╝░░╚═╝╚═╝░░░╚═╝░░░                 
-"""
+""")
 Hazbinlogo = """\033[0m
 ██████████████████████████████████
 █─█─██▀▄─██░▄▄░▄█▄─▄─▀█▄─▄█▄─▀█▄─▄█
@@ -24,4 +24,4 @@ Hazbinlogo = """\033[0m
 
 def menu():
 
-    print (Hazbinlogo + """\033[1m                     
+    print (Hazbinlogo + """\033[1m  """)                
