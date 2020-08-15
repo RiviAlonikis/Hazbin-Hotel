@@ -5,21 +5,9 @@ import os
 from colorama import Fore, Back, Style
 import argparse
 
-import os
-
-import time
 
 
 
-import subprocess
-
-import re
-
-import urllib2
-
-import socket
-
-import urllib
 print("""powered by
 ██████╗░██╗██╗░░░██╗
 ██╔══██╗██║██║░░░██║
