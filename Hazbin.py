@@ -39,12 +39,8 @@ print(Fore.RED + """powered by
 
 choice = input("Alastor~#")
 os.system('clear')
-if choice == "1":
-   menu()
-elif choice == "2":
-   andalastor()
-elif choice == "3":
-   andalastoryes()
+
+
 elif choice == "99":
    sys.exit()
 elif choice == "":
