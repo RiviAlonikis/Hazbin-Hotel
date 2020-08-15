@@ -37,16 +37,17 @@ choice = input("Alastor~#")
 os.system('clear')
 if choice == "1":
    alastor()
-elif choice == "2":
+   elif choice == "2":
       andalastor()
-elif choice == "3":
+      elif choice == "3":
          andalastoryes()
-elif choice == "99":
+         elif choice == "99":
             sys.exit()
-elif choice == "":
-   menu()
-else:
-   menu()
+            elif choice == "":
+               menu()
+               else:
+                  menu()
+
 
 
 def alastor():
