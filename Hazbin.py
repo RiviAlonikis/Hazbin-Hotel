@@ -123,9 +123,9 @@ elif choice == "2":
 elif choice == "3":
     print("""('Ваш номер в отеле:', randint(1,666))""")
   
-       666()
-else:
-     666()
+
+
+
   
   
             
